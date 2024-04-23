@@ -1,5 +1,5 @@
-###This code comes from Ben Eater channel.
-#I just applied it to SST29EE020 the Page-Mode EEPROM.
+# This code comes from Ben Eater channel.
+## I just applied it to SST29EE020 the Page-Mode EEPROM.
 
 
 https://youtu.be/K88pgWhEb1M?si=13EdonnWX4Fwlu1t
